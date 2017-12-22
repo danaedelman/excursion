@@ -1,4 +1,7 @@
-
+body {
+  background-color: Black;
+  text-align: center;
+}
 
 
 h1 {
@@ -29,10 +32,6 @@ h4 {
 
 }
 
-body {
-  background-color: Black;
-  text-align: center;
-}
 
 .copyright {
   text-align: right;
